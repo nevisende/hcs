@@ -1,0 +1,10 @@
+.welcome-section {
+    width: 100vw;
+    height: 100vh;
+}
+@media (max-width: 28.75em) {
+    .welcome-section {
+      flex-direction: column;
+      text-align: center;
+    }
+  }
